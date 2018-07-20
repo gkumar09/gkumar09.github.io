@@ -4,12 +4,24 @@
 - title: About
   href: about.html
 
-- title: Posts
+- title: Education
   href: list/posts.html
 
-- title: Projects
+- title: Professional Experience
   href: list/projects.html
 
-- title: Portfolio
+- title: Research Interests
+  href: list/portfolio.html
+
+- title: Tools developed
+  href: list/about.html
+
+- title: Teaching
+  href: list/posts.html
+
+- title: Hobbies
+  href: list/projects.html
+
+- title: Gallery
   href: list/portfolio.html
 
