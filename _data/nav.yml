@@ -1,16 +1,22 @@
 - title: Home
   href: index.html
 
-- title: About
-  href: about.html
+- title: Professional Experience
+  href: experience.html
 
-- title: Posts
-  href: list/posts.html
+- title: Academics
+  href: academics.html
 
-- title: Projects
-  href: list/projects.html
+- title: Research 
+  href: list/research.html
 
-- title: Portfolio
-  href: list/portfolio.html
+- title: Tools
+  href: list/tools.html
+
+- title: Gallery
+  href: gallery.html
+
+- title: Blogs
+  href: list/blogs.html
 
 
