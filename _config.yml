@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 # Config for your profile.
 title:            Gaurav Kumar webpage  # Site title
-name:             Gaurav Kumar              # Your name
+name:             "Gaurav Kumar, PhD"              # Your name
 avatar:           /theme/img/test.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
