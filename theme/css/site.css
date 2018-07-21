@@ -12,7 +12,7 @@
 }
 
 .icon.grey svg path {
-    fill: #999;
+    fill: rgba(255,255,255,0.1);
 }
 
 .icon.red svg path {
