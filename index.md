@@ -1,4 +1,5 @@
-### Hi, I am Gaurav Kumar
+### Gaurav Kumar, PhD
 <hr>
-### I am a Bioinformatician working as 
-
+#### Hi, I am a Bioinformatician working as 
+##### Hi, I am a Bioinformatician working as
+###### Hi, I am a Bioinformatician working as
