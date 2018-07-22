@@ -1,5 +1,5 @@
-### Gaurav Kumar, PhD
+# Gaurav Kumar, PhD
 ## Thanks, for visiting!
 
-# Hello, I am Gaurav Kumar
+### Hello, I am Gaurav Kumar
 
