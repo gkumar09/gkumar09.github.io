@@ -1,8 +1,7 @@
 ### Professional Experience
 
-##### June 2018- Present
-###### Official Designation: Computational Biologist
-######Institution: Thomas Jeffersons University and Hospital
+##### June 2018- Present: Computational Biologist
+###### Institution: Sidney Kimmel Cancer Center, Thomas Jeffersons University and Hospital
 
 ###### Job Responsibilities:
 <ul type="circle">
