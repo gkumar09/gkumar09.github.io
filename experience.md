@@ -9,8 +9,8 @@
     <li> Provide training to the researchers to analyze the high-throughput genomic data. </li>
 </ul>
 
-br()
-br()
+<br>
+<br>
 
 ##### October 2017- May 2018:
 ###### *Assistant Bioinformatics Scientist,* *__Emory Integrated Computational Core, Emory University, Atlanta, GA__*
@@ -22,8 +22,8 @@ br()
     <li> Taught 'genomic data analysis' segment of bioinformatics course (IBS574) to graduate student.</li>
 </ul>
 
-br()
-br()
+<br>
+<br>
 
 ##### October 2016- September 2017:
 ###### *Bioinformatics Analyst,* *__Emory Integrated Computational Core, Emory University, Atlanta, GA__*
@@ -34,8 +34,8 @@ br()
     <li> Taught 'python programming' segment of bioinformatics course (IBS574) to graduate student.</li>
 </ul>
 
-br()
-br()
+<br>
+<br>
 
 ##### September 2011- September 2016:
 ###### *Research fellow,* *__Beth Israel Deaconess Medical Center, Harvard University and The Broad Institute, Boston, MA__*
