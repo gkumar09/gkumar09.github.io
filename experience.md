@@ -1,7 +1,7 @@
 ### Professional Experience
 
 ##### June 2018- Present:
-###### *Computational Biologist,* *__Sidney Kimmel Cancer Center, Thomas Jeffersons University and Hospital, Philadelphia, PA__*
+###### *Computational Biologist,* *__Sidney Kimmel Cancer Center, Thomas Jeffersons University and Hospital, Philadelphia, PA <span style="color:blue"__*
 
 ###### Job Responsibilities:
 <ul type="circle">
