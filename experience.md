@@ -1,8 +1,7 @@
 ### Professional Experience
 
 ##### June 2018- Present:
-###### *Computational Biologist,* *__Sidney Kimmel Cancer Center, Thomas Jeffersons University and Hospital, Philadelphia, PA <span style="color:blue"__*
-
+###### *Computational Biologist,* *__Sidney Kimmel Cancer Center, Thomas Jeffersons University and Hospital, Philadelphia, PA__*
 ###### Job Responsibilities:
 <ul type="circle">
     <li> As a part of my research, I develop algorithms and methods for high-throughput genomic data analysis. </li>
@@ -10,10 +9,11 @@
     <li> Provide training to the researchers to analyze the high-throughput genomic data. </li>
 </ul>
 
+br()
+br()
 
 ##### October 2017- May 2018:
 ###### *Assistant Bioinformatics Scientist,* *__Emory Integrated Computational Core, Emory University, Atlanta, GA__*
-
 ###### Job Responsibilities:
 <ul type="circle">
     <li> I developed and maintained various pipelines for genomic data analysis using R, python, and Unix language. </li>
@@ -22,10 +22,11 @@
     <li> Taught 'genomic data analysis' segment of bioinformatics course (IBS574) to graduate student.</li>
 </ul>
 
+br()
+br()
 
 ##### October 2016- September 2017:
 ###### *Bioinformatics Analyst,* *__Emory Integrated Computational Core, Emory University, Atlanta, GA__*
-
 ###### Job Responsibilities:
 <ul type="circle">
     <li> I developed and maintained various pipelines for genomic data analysis using R, python, and Unix language. </li>
@@ -33,10 +34,11 @@
     <li> Taught 'python programming' segment of bioinformatics course (IBS574) to graduate student.</li>
 </ul>
 
+br()
+br()
 
 ##### September 2011- September 2016:
 ###### *Research fellow,* *__Beth Israel Deaconess Medical Center, Harvard University and The Broad Institute, Boston, MA__*
-
 ###### Job Responsibilities:
 <ul type="circle">
     <li> Performed microarray data analysis for the minimally invasive cancer therapy projects. </li>
