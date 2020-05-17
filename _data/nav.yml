@@ -1,17 +1,15 @@
 - title: Home
   href: index.html
 
-- title: Professional Experience
-  href: experience.html
-
-- title: Academics and Skills
-  href: academics.html
+- title: Academics and Experience
+  href: academics_experience.html
 
 - title: Research 
   href: research.html
+  
+- title: Blogs
+  href: blogs.html
 
-- title: Tools
-  href: gallery.html
 
 
 
