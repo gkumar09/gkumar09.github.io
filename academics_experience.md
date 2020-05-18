@@ -1,5 +1,5 @@
 ### Academic Experience
-###### Bachelor of Science (BS), <br> Department of Biophysics, Panjab University, Chandigarh, India- 2002-2005- Biophysics 
+###### Bachelor of Science (BS),&nbsp;&nbsp; Department of Biophysics, Panjab University, Chandigarh, India- 2002-2005- Biophysics 
 ###### Doctor of Philosophy (PhD), School of health sciences, Swinburne University of Technology, Victoria, Australia- 2008-2011- Biophysics
 ###### Post-doctoral training, Beth Israel Deaconess Medical Center/Harvard University, Boston, USA- 2011-2016- Cancer genomics and bioinformatics 
 
