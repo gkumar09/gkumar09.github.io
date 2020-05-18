@@ -1,15 +1,13 @@
 ### Academic Experience
-###### Bachelors in Science (BS), Department of Biophysics, Panjab University, Chandigarh, India, 2002-2005 
-
-
-
-
+###### Bachelor of Science (BS), Department of Biophysics, Panjab University, Chandigarh, India- 2002-2005- Biophysics 
+###### Doctor of Philosophy (PhD), School of health sciences, Swinburne University of Technology, Victoria, Australia- 2008-2011- Biophysics
+###### Post-doctoral training, Beth Israel Deaconess Medical Center/Harvard University, Boston, USA- 2011-2016- Cancer genomics and bioinformatics 
 
 
 ### Professional Experience
 
 ##### 2020- Present:
-###### *Assistant Professor,* *__Sidney Kimmel Cancer Center, Thomas Jeffersons University and Hospital, Philadelphia, PA__*
+###### Assistant Professor, Sidney Kimmel Cancer Center, Thomas Jeffersons University and Hospital, Philadelphia, PA
 ###### Job Responsibilities:
 <ul type="circle">
     <li> As a part of my research, I develop algorithms and methods for high-throughput genomic data analysis. </li>
