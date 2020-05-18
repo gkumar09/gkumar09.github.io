@@ -1,5 +1,5 @@
 ### Academic Experience
-###### *Bachelors in Science (BS),* *Department of Biophysics, Panjab University, Chandigarh, India,* *2002-2005*
+###### Bachelors in Science (BS), Department of Biophysics, Panjab University, Chandigarh, India, 2002-2005 
 
 
 
